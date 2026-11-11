@@ -29,7 +29,7 @@ new_this_year: |
         </li>
 
         <li>
-            Start an <a href="https://github.com/kiwitcms/Kiwi/milestone/4">open source bounty program</a>
+            Start an <a href="https://github.com/kiwitcms/kiwitcms/milestone/4">open source bounty program</a>
             and <a href="https://kiwitcms.org/blog/tags/community/">partner with several organizations</a>
             across the world
         </li>
@@ -57,7 +57,7 @@ new_this_year: |
         </li>
 
         <li>
-            Surpass <a href="https://hub.docker.com/v2/repositories/kiwitcms/kiwi/">280k downloads</a>
+            Surpass <a href="https://hub.docker.com/v2/repositories/kiwitcms/kiwitcms/">280k downloads</a>
             via Docker Hub
         </li>
     </ul>
@@ -92,7 +92,7 @@ showcase: |
 
     <ul class="list-unstyled">
         <li>
-            <a href="https://github.com/kiwitcms/Kiwi/stargazers">Give ⭐ on GitHub</a>
+            <a href="https://github.com/kiwitcms/kiwitcms/stargazers">Give ⭐ on GitHub</a>
         </li>
 
         <li>
